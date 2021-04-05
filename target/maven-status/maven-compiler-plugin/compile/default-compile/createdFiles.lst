@@ -1,0 +1,8 @@
+ru/moiseeva/App.class
+ru/moiseeva/game/board/BoardCell.class
+ru/moiseeva/game/moves/Move.class
+ru/moiseeva/game/CheckersGame.class
+ru/moiseeva/game/checkers/Checker.class
+ru/moiseeva/converters/DataConverter.class
+ru/moiseeva/exceptions/CheckerGameException.class
+ru/moiseeva/game/checkers/Color.class
